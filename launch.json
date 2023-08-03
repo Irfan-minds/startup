@@ -1,0 +1,14 @@
+// Get a card by its ID.
+function getCard(id) {
+    // ...
+  }
+  
+  // Update a card's position.
+  function updateCardPosition(id, newPosition) {
+    // ...
+  }
+  
+  // Save a card to the database.
+  function saveCard(card) {
+    // ...
+  }
